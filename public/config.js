@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'https://lisui.top/'
     },
   ],
 };
